@@ -28,13 +28,23 @@ Her an tetikte olun; sesler ve gölgeler sizin en yakın arkadaşınız, ama ayn
 - **Oyun Motorları:** Unreal Engine 5, Blender  
 - **Version Control ve Tasarım:** Git, Photoshop  
 
-👇 İşte en çok kullandığım araçların sembolleri:  
-![C++](https://upload.wikimedia.org/wikipedia/commons/5/53/C++_Logo.svg)  
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)  
-![UE5](https://upload.wikimedia.org/wikipedia/commons/a/ac/Unreal_Engine_Logo.svg)  
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)  
-![Blender](https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg)  
-![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/a9/Adobe_Photoshop_CC_icon.svg)  
+## 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+### 🔧 Programlama Dilleri:
+- ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) **Java**: İleri seviyede geliştirme ve oyun mekanikleri tasarımı için.
+- ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/C++_Logo.svg) **C++**: Performans optimizasyonu, oyun motoru programlaması.
+
+---
+
+### 🎮 Oyun Motoru ve Tasarım Araçları:
+- ![UE5 Logo](https://upload.wikimedia.org/wikipedia/commons/a/ac/Unreal_Engine_Logo.svg) **Unreal Engine 5**: Yüksek kaliteli grafikler ve mekaniklerde uzmanlık.
+- ![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg) **Blender**: 3D modelleme ve animasyon tasarımı.
+
+---
+
+### 📁 Versiyon Kontrol ve Grafik Tasarım:
+- ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg) **Git**: Kod yönetimi, iş birliği ve kontrol.
+- ![Photoshop Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Adobe_Photoshop_CC_icon.svg) **Photoshop**: Grafik ve UI tasarımı.
 
 ---
 
