@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCAmY3Q9cw/L1f9XvI9k0989V4e0m/giphy.gif" width="35"> Selam! Ben [Adın]
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCAmY3Q9cw/L1f9XvI9k0989V4e0m/giphy.gif" width="35"> Selam! Ben [GKTRK363]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=Game+Developer;Unreal+Engine+5+Enthusiast;Co-Founder+of+Zynth+Games;Crafting+Psychological+Horror">
