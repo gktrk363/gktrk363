@@ -28,8 +28,6 @@ Her an tetikte olun; sesler ve gölgeler sizin en yakın arkadaşınız, ama ayn
 - **Oyun Motorları:** Unreal Engine 5, Blender  
 - **Version Control ve Tasarım:** Git, Photoshop  
 
-## 🛠️ Kullandığım Teknolojiler ve Araçlar
-
 ### 🔧 Programlama Dilleri:
 - ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) **Java**: İleri seviyede geliştirme ve oyun mekanikleri tasarımı için.
 - ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/C++_Logo.svg) **C++**: Performans optimizasyonu, oyun motoru programlaması.
