@@ -46,21 +46,12 @@
     </td>
   </tr>
 </table>
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
 
 ---
 
 ### 📫 İletişime Geç
 <p align="left">
 <a href="https://linkedin.com/in/[https://www.linkedin.com/in/gokturkcetin/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/zynthgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/MayS4/MayS4/master/wave.gif" width="100%">
