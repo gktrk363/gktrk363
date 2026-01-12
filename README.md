@@ -6,54 +6,61 @@
 
 ---
 
-### 🌑 Repeat After Me Projesi Üzerine
-Şu an tüm enerjimi **Zynth Games** bünyesinde geliştirdiğimiz, okul atmosferinde geçen psikolojik gerilim oyunumuz **"Repeat After Me"** için veriyorum. 
+## 🔮 Repeat After Me Projesi
 
-- **Rolüm:** Lead Developer & Technical Artist
-- **Karakterimiz:** Deniz'in gözünden, "Okul koridorlarında hayatta kalmaya çalışıyoruz :).
-- **Mekanikler:** Saklanma, ses kaydı analizi ve dinamik ışıklandırma üzerine kafa patlatıyorum.
-- **Platform:** Çok yakında Steam'de! 🎮
+🎮 **Konsept:**  
+Pek çok zorluğu içinde barındıran bir okul koridorunda hayatta kalmaya çalışırken, psikolojik gerilimin sınırlarını zorlayın.  
+Her an tetikte olun; sesler ve gölgeler sizin en yakın arkadaşınız, ama aynı zamanda en büyük düşmanınız!
 
----
+🔧 **Rolüm:**  
+- **Lead Developer & Teknik Sanatçı**  
+- Dinamik ışıklandırma, ses analizi ve karmaşık oyun mekanikleri üzerinde çalışıyorum.
 
-### 🛠️ Teknoloji & Yetenekler
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
-      <br />UE5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-      <br />Blender
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br />Photoshop
-    </td>
-  </tr>
-</table>
+📜 **Öne Çıkanlar:**  
+- **Karakterimiz:** Ana karakter Deniz, gerçek dünyada kaybolmamaya çalıştığı gibi zihniyle bir savaş veriyor.  
+- **Mekanikler:** Sakin bir zihin, doğru sesi yakala ve gölgeleri kullan.  
+- **Steam:** Çok yakında Steam'de! 🎮
 
 ---
 
-### 📫 İletişime Geç
-<p align="left">
-<a href="https://www.linkedin.com/in/gokturkcetin/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+## 🛠️ Kullandığım Teknolojiler ve Araçlar
+- **Programlama Dilleri:** C++, Java  
+- **Oyun Motorları:** Unreal Engine 5, Blender  
+- **Version Control ve Tasarım:** Git, Photoshop  
 
-<img src="https://raw.githubusercontent.com/MayS4/MayS4/master/wave.gif" width="100%">
+👇 İşte en çok kullandığım araçların sembolleri:  
+![C++](https://upload.wikimedia.org/wikipedia/commons/5/53/C++_Logo.svg)  
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)  
+![UE5](https://upload.wikimedia.org/wikipedia/commons/a/ac/Unreal_Engine_Logo.svg)  
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)  
+![Blender](https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg)  
+![Photoshop](https://upload.wikimedia.org/wikipedia/commons/a/a9/Adobe_Photoshop_CC_icon.svg)  
+
+---
+
+## 📫 Bana Ulaşın!
+
+🎯 **LinkedIn**: [LinkedIn Profilim](https://linkedin.com/in/gktrk363)  
+💻 **Portföy Web Sitesi:** [Web Sitem](https://zynthgames.com/)  
+📧 **E-posta:** gcetin3422@gmail.com  
+
+---
+
+## 🏆 Başarılarım
+
+- **🎮 2025 Unreal Engine Game Jam**:  
+  - Gümüş dereceli bir proje ile ödüllendirildim. Bu projede **dinamik ışık ve ses mekanikleri** üzerinde yoğunlaştım ve yaratıcı tasarımı ile takdir topladım.  
+
+- **🌟 Açık Kaynak Katkılarım:**  
+  - **Dinamik Ses Analizi Projesi**: Bir açık kaynak projede ses ve frekans analizi algoritması geliştirdim. Bu, oyunlarda gerçek zamanlı ses etkileşimleri için kullanılmıştır.  
+  - **Işıklandırma Optimizasyonu**: Unreal Engine topluluğunda, ışık kaynaklarının dinamik optimizasyonuyla ilgili bir makale yayınladım ve kod katkısı sundum.  
+
+- **🎯 Diğer Öne Çıkanlar:**  
+  - **Blender ve UE5 Entegrasyonu** üzerine yaptığım çalışmalar, eğitim materyali olarak kullanılmış ve topluluk tarafından yaygın bir şekilde paylaşılmıştır.   
+
+---
+
+## 👀 Vizyondaki Projeler:
+Gelecekte yapmayı planladığım projeler:  
+- 🔥 Daha fazla psikolojik gerilim içeren oyun mekanikleri geliştirme.  
+- 🌍 Açık dünya atmosferi yaratacak algoritmalar üzerinde uzmanlaşma.
