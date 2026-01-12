@@ -28,21 +28,54 @@ Her an tetikte olun; sesler ve gölgeler sizin en yakın arkadaşınız, ama ayn
 - **Oyun Motorları:** Unreal Engine 5, Blender  
 - **Version Control ve Tasarım:** Git, Photoshop  
 
-### 🔧 Programlama Dilleri:
-- ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) **Java**: İleri seviyede geliştirme ve oyun mekanikleri tasarımı için.
-- ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/C++_Logo.svg) **C++**: Performans optimizasyonu, oyun motoru programlaması.
+## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
----
-
-### 🎮 Oyun Motoru ve Tasarım Araçları:
-- ![UE5 Logo](https://upload.wikimedia.org/wikipedia/commons/a/ac/Unreal_Engine_Logo.svg) **Unreal Engine 5**: Yüksek kaliteli grafikler ve mekaniklerde uzmanlık.
-- ![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg) **Blender**: 3D modelleme ve animasyon tasarımı.
-
----
-
-### 📁 Versiyon Kontrol ve Grafik Tasarım:
-- ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg) **Git**: Kod yönetimi, iş birliği ve kontrol.
-- ![Photoshop Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Adobe_Photoshop_CC_icon.svg) **Photoshop**: Grafik ve UI tasarımı.
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br />
+      **C++**
+      <br />
+      ✔️ Performans optimizasyonu ve oyun motoru geliştirme için kullandığım en güçlü dil.
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br />
+      **Java**
+      <br />
+      ✔️ Oyun mekanikleri geliştirme ve özellikle sistem uygulamaları için tercih ettiğim dil.
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
+      <br />
+      **Unreal Engine**
+      <br />
+      ✔️ Dinamik mekanikler ve yüksek kaliteli görsellerle oyun geliştirme uzmanlığımın merkezinde.
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br />
+      **Git**
+      <br />
+      ✔️ Kod iş birliği ve sürüm kontrolü için olmazsa olmaz aracım.
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+      <br />
+      **Blender**
+      <br />
+      ✔️ 3D modelleme ve animasyon tasarımında yaratıcılığıma güç katan araç.
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br />
+      **Photoshop**
+      <br />
+      ✔️ Grafik tasarım ve UI geliştirme için profesyonel çalışmalarımı gerçekleştirdiğim yazılım.
+    </td>
+  </tr>
+</table>
 
 ---
 
