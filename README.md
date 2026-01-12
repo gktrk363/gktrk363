@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCAmY3Q9cw/L1f9XvI9k0989V4e0m/giphy.gif" width="35"> Selam! Ben [GKTRK363]
+0# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCAmY3Q9cw/L1f9XvI9k0989V4e0m/giphy.gif" width="35"> Selam! Ben [GKTRK363]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=Game+Developer;Unreal+Engine+5+Enthusiast;Co-Founder+of+Zynth+Games;Crafting+Psychological+Horror">
@@ -7,10 +7,10 @@
 ---
 
 ### 🌑 Repeat After Me Projesi Üzerine
-Şu an tüm enerjimi **Zynth Games** bünyesinde geliştirdiğimiz, okul atmosferinde geçen psikolojik gerilim oyunumuz **"Repeat After Me"**ne veriyorum. 
+Şu an tüm enerjimi **Zynth Games** bünyesinde geliştirdiğimiz, okul atmosferinde geçen psikolojik gerilim oyunumuz **"Repeat After Me"** için veriyorum. 
 
 - **Rolüm:** Lead Developer & Technical Artist
-- **Karakterimiz:** Deniz'in gözünden, "Gözcü Zil"in hüküm sürdüğü koridorlarda hayatta kalmaya çalışıyoruz.
+- **Karakterimiz:** Deniz'in gözünden, "Okul koridorlarında hayatta kalmaya çalışıyoruz :).
 - **Mekanikler:** Saklanma, ses kaydı analizi ve dinamik ışıklandırma üzerine kafa patlatıyorum.
 - **Platform:** Çok yakında Steam'de! 🎮
 
