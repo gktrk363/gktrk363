@@ -49,12 +49,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gktrk363&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gktrk363&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
 ### 📫 İletişime Geç
 <p align="left">
 <a href="https://linkedin.com/in/[https://www.linkedin.com/in/gokturkcetin/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
