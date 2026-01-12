@@ -24,11 +24,6 @@ Her an tetikte olun; sesler ve gölgeler sizin en yakın arkadaşınız, ama ayn
 ---
 
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
-- **Programlama Dilleri:** C++, Java  
-- **Oyun Motorları:** Unreal Engine 5, Blender  
-- **Version Control ve Tasarım:** Git, Photoshop  
-
-## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 <table align="center">
   <tr>
