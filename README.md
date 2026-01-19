@@ -1,4 +1,6 @@
-# <img src="https://giphy.com/gifs/yosub-money-donald-duck-cash-xTiTnqUxyWbsAXq7Ju" width="35"> Selam! Ben [GKTRK363]
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZnluc2lkZXJfZ2lmcyZjdD1n/L1f9XvI9kO9B9V4e0m/giphy.gif" width="50" style="vertical-align: middle;"> Selam! Ben gktrk363
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=Game+Developer;Unreal+Engine+5+Enthusiast;Co-Founder+of+Zynth+Games;Crafting+Psychological+Horror">
