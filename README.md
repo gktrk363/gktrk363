@@ -6,97 +6,51 @@
 
 ---
 
-## 🔮 Repeat After Me Projesi
+# 👨‍💻 Göktürk (gktrk363)
+### **Unreal Engine Developer**
 
-🎮 **Konsept:**  
-Pek çok zorluğu içinde barındıran bir okul koridorunda hayatta kalmaya çalışırken, psikolojik gerilimin sınırlarını zorlayın.  
-Her an tetikte olun; sesler ve gölgeler sizin en yakın arkadaşınız, ama aynı zamanda en büyük düşmanınız!
-
-🔧 **Rolüm:**  
-- **Lead Developer & Teknik Sanatçı**  
-- Dinamik ışıklandırma, ses analizi ve karmaşık oyun mekanikleri üzerinde çalışıyorum.
-
-📜 **Öne Çıkanlar:**  
-- **Karakterimiz:** Ana karakter Deniz, gerçek dünyada kaybolmamaya çalıştığı gibi zihniyle bir savaş veriyor.  
-- **Mekanikler:** Sakin bir zihin, doğru sesi yakala ve gölgeleri kullan.  
-- **Steam:** Çok yakında Steam'de! 🎮
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Istanbul%2C%20TR-red?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler ve Araçlar
+### 🚀 Hakkımda | About Me
+**TR:** Bir oyun geliştiricisi olarak odak noktam; Unreal Engine 5 üzerinde yüksek performanslı mekanikler geliştirmek ve projeler için ileri düzey optimizasyon araçları kodlamaktır.
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br />
-      **C++**
-      <br />
-      ✔️ Performans optimizasyonu ve oyun motoru geliştirme için kullandığım en güçlü dil.
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />
-      **Java**
-      <br />
-      ✔️ Oyun mekanikleri geliştirme ve özellikle sistem uygulamaları için tercih ettiğim dil.
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
-      <br />
-      **Unreal Engine**
-      <br />
-      ✔️ Dinamik mekanikler ve yüksek kaliteli görsellerle oyun geliştirme uzmanlığımın merkezinde.
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />
-      **Git**
-      <br />
-      ✔️ Kod iş birliği ve sürüm kontrolü için olmazsa olmaz aracım.
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-      <br />
-      **Blender**
-      <br />
-      ✔️ 3D modelleme ve animasyon tasarımında yaratıcılığıma güç katan araç.
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br />
-      **Photoshop**
-      <br />
-      ✔️ Grafik tasarım ve UI geliştirme için profesyonel çalışmalarımı gerçekleştirdiğim yazılım.
-    </td>
-  </tr>
-</table>
+**EN:** As a game developer, my focus is on developing high-performance mechanics in Unreal Engine 5 and engineering advanced optimization tools for complex project environments.
 
 ---
 
-## 📫 Bana Ulaşın!
+### 🛠️ Kullandığım Teknolojiler ve Araçlar | Technologies & Tools
 
-🎯 **LinkedIn**: [LinkedIn Profilim](https://linkedin.com/in/gktrk363)  
-💻 **Portföy Web Sitesi:** [Web Sitem](https://zynthgames.com/)  
-📧 **E-posta:** gcetin3422@gmail.com  
-
----
-
-## 🏆 Başarılarım
-
-- **🎮 2025 Unreal Engine Game Jam**:  
-  - Gümüş dereceli bir proje ile ödüllendirildim. Bu projede **dinamik ışık ve ses mekanikleri** üzerinde yoğunlaştım ve yaratıcı tasarımı ile takdir topladım.  
-
-- **🌟 Açık Kaynak Katkılarım:**  
-  - **Dinamik Ses Analizi Projesi**: Bir açık kaynak projede ses ve frekans analizi algoritması geliştirdim. Bu, oyunlarda gerçek zamanlı ses etkileşimleri için kullanılmıştır.  
-  - **Işıklandırma Optimizasyonu**: Unreal Engine topluluğunda, ışık kaynaklarının dinamik optimizasyonuyla ilgili bir makale yayınladım ve kod katkısı sundum.  
-
-- **🎯 Diğer Öne Çıkanlar:**  
-  - **Blender ve UE5 Entegrasyonu** üzerine yaptığım çalışmalar, eğitim materyali olarak kullanılmış ve topluluk tarafından yaygın bir şekilde paylaşılmıştır.   
+| <img src="https://skillicons.dev/icons?i=cpp" width="40"> | <img src="https://skillicons.dev/icons?i=java" width="40"> | <img src="https://skillicons.dev/icons?i=unreal" width="40"> | <img src="https://skillicons.dev/icons?i=python" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=blender" width="40"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **C++** | **Java** | **Unreal Engine** | **Python** | **Git** | **Blender** |
+| Performans ve motor geliştirme. | Sistem ve oyun mekanikleri. | Dinamik ve yüksek kaliteli oyun dünyaları. | Otomasyon ve optimizasyon araçları. | Versiyon kontrol ve ekip birliği. | 3D modelleme ve animasyon. |
 
 ---
 
-## 👀 Vizyondaki Projeler:
-Gelecekte yapmayı planladığım projeler:  
-- 🔥 Daha fazla psikolojik gerilim içeren oyun mekanikleri geliştirme.  
-- 🌍 Açık dünya atmosferi yaratacak algoritmalar üzerinde uzmanlaşma.
+### 🕹️ Projeler | Projects
+
+* **DeepByte Auditor:** Büyük ölçekli projeler için geliştirdiğim, multi-threaded mimariye sahip açık kaynak disk analiz ve optimizasyon aracı.
+* * **YTM: youtube-music-cleaner** Yt Music beğenilenler toplu silme aracı :D
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gktrk363&show_icons=true&theme=tokyonight" width="400" />
+</p>
+
+---
+
+### 📫 İletişim | Contact
+- 💼 **LinkedIn:** [LinkedIn Profil Linkin]
+- 📁 **GitHub:** github.com/gktrk363
+- 💻 **Portföy Web Sitesi:** [Web Sitemiz](https://zynthgames.com/)  
+
+---
+<p align="right">
+  Developed by <b>gktrk363</b>
+</p>
