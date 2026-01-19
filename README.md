@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZnluc2lkZXJfZ2lmcyZjdD1n/L1f9XvI9kO9B9V4e0m/giphy.gif" width="50" style="vertical-align: middle;"> Selam! Ben gktrk363
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUxbm1jNjVxc2lwY243dzlsbjI2N3Y5MHdvcXBvN3N6OGZ0NDFhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="75" style="vertical-align: middle;"> GKTRK363
 </h1>
 
 <p align="center">
