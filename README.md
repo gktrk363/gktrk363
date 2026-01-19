@@ -35,9 +35,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gktrk363&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gktrk363&show_icons=true&theme=github_dark&count_private=true" height="180" />
 </p>
 
 ---
