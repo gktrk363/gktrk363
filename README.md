@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUxbm1jNjVxc2lwY243dzlsbjI2N3Y5MHdvcXBvN3N6OGZ0NDFhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="75" style="vertical-align: middle;"> GKTRK363
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUxbm1jNjVxc2lwY243dzlsbjI2N3Y5MHdvcXBvN3N6OGZ0NDFhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="35" style="vertical-align: middle;"> GKTRK363
 </h1>
 
 <p align="center">
