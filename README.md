@@ -34,7 +34,7 @@
 ### 🕹️ Projeler | Projects
 
 * **DeepByte Auditor:** Büyük ölçekli projeler için geliştirdiğim, multi-threaded mimariye sahip açık kaynak disk analiz ve optimizasyon aracı.
-* * **YTM: youtube-music-cleaner** Yt Music beğenilenler toplu silme aracı :D
+* **YTM: youtube-music-cleaner** Yt Music beğenilenler toplu silme aracı :D
 
 ---
 
