@@ -23,6 +23,3 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/gokturkcetin/
 
 ---
-<p align="right">
-  Developed by <b>gktrk363</b>
-</p>
