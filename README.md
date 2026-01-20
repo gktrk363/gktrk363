@@ -43,7 +43,7 @@
 ---
 
 ### 📫 İletişim | Contact
-- 💼 **LinkedIn:** [LinkedIn Profil Linkin]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gokturkcetin/
 - 📁 **GitHub:** github.com/gktrk363
 - 💻 **Portföy Web Sitesi:** [Web Sitemiz](https://zynthgames.com/)  
 
