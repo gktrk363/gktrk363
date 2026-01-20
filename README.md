@@ -19,26 +19,11 @@
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar | Technologies & Tools
-
-| <img src="https://skillicons.dev/icons?i=cpp" width="40"> | <img src="https://skillicons.dev/icons?i=java" width="40"> | <img src="https://skillicons.dev/icons?i=unreal" width="40"> | <img src="https://skillicons.dev/icons?i=python" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=blender" width="40"> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **C++** | **Java** | **Unreal Engine** | **Python** | **Git** | **Blender** |
-| Performans ve motor geliştirme. | Sistem ve oyun mekanikleri. | Dinamik ve yüksek kaliteli oyun dünyaları. | Otomasyon ve optimizasyon araçları. | Versiyon kontrol ve ekip birliği. | 3D modelleme ve animasyon. |
-
----
 
 ### 🕹️ Projeler | Projects
 
 * **DeepByte Auditor:** Büyük ölçekli projeler için geliştirdiğim, multi-threaded mimariye sahip açık kaynak disk analiz ve optimizasyon aracı.
 * **YTM: youtube-music-cleaner** Yt Music beğenilenler toplu silme aracı.
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gktrk363&show_icons=true&theme=github_dark&count_private=true" height="180" />
-</p>
 
 ---
 
