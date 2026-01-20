@@ -12,14 +12,6 @@
 
 ---
 
-### 🚀 Hakkımda | About Me
-**TR:** Bir oyun geliştiricisi olarak odak noktam; Unreal Engine 5 üzerinde yüksek performanslı mekanikler geliştirmek ve projeler için ileri düzey optimizasyon araçları kodlamaktır.
-
-**EN:** As a game developer, my focus is on developing high-performance mechanics in Unreal Engine 5 and engineering advanced optimization tools for complex project environments.
-
----
-
-
 ### 🕹️ Projeler | Projects
 
 * **DeepByte Auditor:** Büyük ölçekli projeler için geliştirdiğim, multi-threaded mimariye sahip açık kaynak disk analiz ve optimizasyon aracı.
