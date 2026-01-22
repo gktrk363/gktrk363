@@ -10,39 +10,12 @@
 
 <div align="center">
 
-<div align="center">
-
 ### 🕹️ Projects
 
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b><a href="https://github.com/gktrk363/unrealmate">UnrealMate</a></b><br><img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square&logo=rocket"></td>
-<td>🚀 All-in-one CLI assistant for Unreal Engine developers<br><code>Sürüm yönetimi, sağlık tarama ve otomasyon aracı</code></td>
-<td><img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/UE-5-black?style=flat-square&logo=unrealengine&logoColor=white"></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/gktrk363/deepbyte-auditor">DeepByte Auditor</a></b></td>
-<td>💾 Multi-threaded disk analysis & optimization tool<br><code>Açık kaynak disk analiz ve optimizasyon aracı</code></td>
-<td><img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Arch-Multi--Thread-purple?style=flat-square"></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/gktrk363/youtube-music-cleaner">YTM</a></b></td>
-<td>🎵 YouTube Music bulk cleanup automation<br><code>Beğenilen videoları toplu silme aracı</code></td>
-<td><img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Type-Automation-green?style=flat-square"></td>
-</tr>
-</tbody>
-</table>
-
-</div>
-</tbody>
-</table>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[UnrealMate](https://github.com/gktrk363/unrealmate)**<br>![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square&logo=rocket) | 🚀 All-in-one CLI assistant for Unreal Engine developers<br>`Sürüm yönetimi, sağlık tarama ve otomasyon aracı` | ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white) ![UE5](https://img.shields.io/badge/UE-5-black?style=flat-square&logo=unrealengine&logoColor=white) |
+| **[DeepByte Auditor](https://github.com/gktrk363/deepbyte-auditor)** | 💾 Multi-threaded disk analysis & optimization tool<br>`Açık kaynak disk analiz ve optimizasyon aracı` | ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Multi-Thread](https://img.shields.io/badge/Arch-Multi--Thread-purple?style=flat-square) |
+| **[YTM](https://github.com/gktrk363/youtube-music-cleaner)** | 🎵 YouTube Music bulk cleanup automation<br>`Beğenilen videoları toplu silme aracı` | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white) ![Automation](https://img.shields.io/badge/Type-Automation-green?style=flat-square) |
 
 </div>
