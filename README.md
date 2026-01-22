@@ -12,10 +12,36 @@
 
 ### 🕹️ Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[UnrealMate](https://github.com/gktrk363/unrealmate)**<br>![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square&logo=rocket) | 🚀 All-in-one CLI assistant for Unreal Engine developers<br>`Sürüm yönetimi, sağlık tarama ve otomasyon aracı` | ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white) ![UE5](https://img.shields.io/badge/UE-5-black?style=flat-square&logo=unrealengine&logoColor=white) |
-| **[DeepByte Auditor](https://github.com/gktrk363/deepbyte-auditor)** | 💾 Multi-threaded disk analysis & optimization tool<br>`Açık kaynak disk analiz ve optimizasyon aracı` | ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Multi-Thread](https://img.shields.io/badge/Arch-Multi--Thread-purple?style=flat-square) |
-| **[YTM](https://github.com/gktrk363/youtube-music-cleaner)** | 🎵 YouTube Music bulk cleanup automation<br>`Beğenilen videoları toplu silme aracı` | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white) ![Automation](https://img.shields.io/badge/Type-Automation-green?style=flat-square) |
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+<div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 300px; background: #0d1117;">
+  <h4>🚀 <a href="https://github.com/gktrk363/unrealmate">UnrealMate</a></h4>
+  <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square&logo=rocket">
+  <p>All-in-one CLI assistant for Unreal Engine developers</p>
+  <code>Sürüm yönetimi, sağlık tarama ve otomasyon aracı</code>
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/UE-5-black?style=flat-square&logo=unrealengine&logoColor=white">
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 300px; background: #0d1117;">
+  <h4>💾 <a href="https://github.com/gktrk363/deepbyte-auditor">DeepByte Auditor</a></h4>
+  <p>Multi-threaded disk analysis & optimization tool</p>
+  <code>Açık kaynak disk analiz ve optimizasyon aracı</code>
+  <br><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch-Multi--Thread-purple?style=flat-square">
+</div>
+
+<div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 300px; background: #0d1117;">
+  <h4>🎵 <a href="https://github.com/gktrk363/youtube-music-cleaner">YTM</a></h4>
+  <p>YouTube Music bulk cleanup automation</p>
+  <code>Beğenilen videoları toplu silme aracı :D</code>
+  <br><br>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Type-Automation-green?style=flat-square">
+</div>
+
+</div>
 
 </div>
