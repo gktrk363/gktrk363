@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Game+Developer;Crafting+Nightmares">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Game+Designer;Crafting+Nightmares">
 </p>
 
 ---
